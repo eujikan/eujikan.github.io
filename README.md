@@ -1,4 +1,3 @@
-# jikan
 
 <html>
 	<head>
@@ -10,6 +9,6 @@
 			
 		</style>
 		
-		<h1> hey </h1>
+		<h1> Ј Ị Ҡ Λ ∩ - 時間 </h1>
 	</body>
 </html>
