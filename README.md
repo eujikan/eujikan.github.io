@@ -1,4 +1,4 @@
-# eu-jikan.github.io
+# jikan.github.io
 <!DOCTYPE HTML>
 <html>
 	<head>
